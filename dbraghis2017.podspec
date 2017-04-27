@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'dbraghis2017'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of dbraghis2017.'
+  s.version          = '0.0.1'
+  s.summary          = 'Pod for learning purposes in Piscine Swift 42'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: This Pod was created for learning purposes during the Piscine Swift, ecole 42. It implements the class CoreData.
                        DESC
 
   s.homepage         = 'https://github.com/ransaked1/dbraghis2017'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  # s.frameworks = 'CoreData'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

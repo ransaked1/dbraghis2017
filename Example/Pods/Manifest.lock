@@ -1,0 +1,16 @@
+PODS:
+  - dbraghis2017 (0.1.0)
+
+DEPENDENCIES:
+  - dbraghis2017 (from `../`)
+
+EXTERNAL SOURCES:
+  dbraghis2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  dbraghis2017: 41302cf7d2f8865fae94ad1420a9271a2cb7144b
+
+PODFILE CHECKSUM: da5388ea6624136f50a14ff4436e70688978fed0
+
+COCOAPODS: 1.2.1
